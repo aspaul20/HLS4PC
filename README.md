@@ -27,11 +27,12 @@ HLS4PC is a parametrizable framework for accelerating point-based 3D point cloud
 
 ## Key Components
 
-- **k-Nearest Neighbors (k-NN):** [`src/nn.hpp`](src/nn.hpp)
+- **k-Nearest Neighbors (k-NN):** [`src/urs.hpp`](src/urs.hpp) & [`src/fps.hpp`](src/fps.hpp)
 - **Uniform Random Sampling (URS):** [`src/urs.hpp`](src/urs.hpp)
 - **Farthest Point Sampling (FPS):** [`src/fps.hpp`](src/fps.hpp)
 - **Local Grouper Module with FPS:** [`src/fps.hpp`](src/fps.hpp)
 - **Local Grouper Module with URS:** [`src/urs.hpp`](src/urs.hpp)
+- **Neural Network Layers (Conv1D, Pointwise Conv1D, FC, MaxPool1D, ReLU1D):** [`src/nn.hpp`](src/nn.hpp)
 - **Types and Utilities:** [`src/types.hpp`](src/types.hpp)
 - **HLS4PC Main Header:** [`src/hls4pc.hpp`](src/hls4pc.hpp)
 
