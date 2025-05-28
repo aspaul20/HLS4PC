@@ -1,11 +1,6 @@
 # HLS4PC: A Parametrizable Framework For Accelerating Point-Based 3D Point Cloud Models on FPGA
 
-## The code for the HLS4PC framework will be shared soon.
-# HLS4PC: A Parametrizable Framework For Accelerating Point-Based 3D Point Cloud Models on FPGA
-## HLS4PC
-
 HLS4PC is a parametrizable framework for accelerating point-based 3D point cloud models on FPGA. This repository contains source code, synthesis scripts, and data files for the publication "HLS4PC: A Parametrizable Framework For Accelerating Point-Based 3D Point Cloud Models on FPGA".
-
 
 ## Directory Structure
 
